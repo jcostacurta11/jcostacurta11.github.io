@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-* ### Designing Feedback Controllers for Human-Prosthetic Systems Using H-Infinity Model Matching ([Paper](https://ieeexplore.ieee.org/document/8512797), [Slides](/files/CM Night Slides.pdf))
+* ### Designing Feedback Controllers for Human-Prosthetic Systems Using H-Infinity Model Matching ([Paper](https://ieeexplore.ieee.org/document/8512797), [Slides](/files/CM night slides.pdf))
 
    Ongoing work in Neuromedical Control Systems Lab, concerning the use of optimal control theory in providing sensory feedback to upper-limb prosthesis users. Slides are from 2019 Computational Medicine Night talk.
    
