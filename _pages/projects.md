@@ -9,9 +9,9 @@ author_profile: true
 
    Ongoing work in Neuromedical Control Systems Lab, concerning the use of optimal control theory in providing sensory feedback to upper-limb prosthesis users. Slides are from 2019 Computational Medicine Night talk.
    
-* ### Machine Learning Methods for Numerical Solutions of Partial Differential Equations ([Poster](/files/FUSRP_Final_Presentation (6).pdf))
+* ### Machine Learning Methods for Numerical Solutions of Partial Differential Equations ([Slides](/files/FUSRP_Final_Presentation (6).pdf))
 
-   Conducted summer research on numerical methods for PDE solving as part of 2019 Fields Undergraduate Summer Research Program at Fields Institute/University of Toronto. Presented poster at end-of-summer symposium. 
+   Conducted summer research on numerical methods for PDE solving as part of 2019 Fields Undergraduate Summer Research Program at Fields Institute/University of Toronto. Presented slides at end-of-summer symposium. 
 
 * ### An interactive module for teaching biomedical applications of feedback control theory ([Link](https://jcostacurta11.shinyapps.io/code/), [Poster](/files/CER Poster (1).png))
 
