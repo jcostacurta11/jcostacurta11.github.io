@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "air" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Julia Costacurta"
@@ -20,7 +23,6 @@ words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
-minimal_mistakes_skin    : "air" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
