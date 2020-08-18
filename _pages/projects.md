@@ -11,7 +11,7 @@ author_profile: true
    
    Conference paper: J. Costacurta, L. Osborn, N. Thakor, and S. Sarma, “Designing feedback controllers for human-prosthetic systems using h-infinity model matching,” in 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2018, pp. 2316 – 2319.
    
-* ### Machine Learning Methods for Numerical Solutions of Partial Differential Equations ([Slides](/files/FUSRP_Final_Presentation (6).pdf))
+* ### Machine Learning Methods for Numerical Solutions of Partial Differential Equations ([arXiv](https://arxiv.org/abs/2008.00144),[Slides](/files/FUSRP_Final_Presentation (6).pdf))
 
   Traditional numerical methods for solving PDEs, such as finite difference or finite element method, are of limited use in problems with complex domains. We attempted to use theory from stochastic calculus to code an alternative solution method in Python. We used methods from machine learning, such as temporal difference learning and PyTorch, to enhance our method. Research conducted as part of 2019 Fields Undergraduate Summer Research Program at Fields Institute/University of Toronto. Presented slides at end-of-summer symposium. 
 
