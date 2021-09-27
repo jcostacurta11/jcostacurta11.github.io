@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching & Mentoring"
-permalink: /teaching/
+permalink: /teaching-mentoring/
 author_profile: true
 ---
 
@@ -21,3 +21,9 @@ I am very proud to have received awards for my undergrad teaching from both the 
 I serve as a mentor for undergraduate students and prospective graduate students via [Project SHORT](https://www.project-short.com/) and JHU [Womxn Mentoring Whiting](https://jhuwmw.carrd.co/).
 
 It takes a village to raise a graduate student. I wouldn't be where I am today without the guidance of my own grad student mentors: [Michael Rosenberg](https://www.linkedin.com/in/mcr-biomech), [Franky Romero](https://web.stanford.edu/~faromero/), and [Blue Sheffer](http://www.bluesheffer.com/).
+
+## PhD Application Resources
+Here are some resources I've found helpful, both for applying to graduate programs and for surviving/thriving once you start:
+* [Some modest advice for graduate students](http://neuromechanicslab.emory.edu/documents/advice-docs/ModestAdviceGradStudents.pdf)
+* [Velocity in Research](https://web.stanford.edu/class/cs197/slides/05-02-velocity.pdf)
+* [Previous NSF GRFP winning examples](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/htmlview#gid=0)
