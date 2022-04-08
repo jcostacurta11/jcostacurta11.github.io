@@ -7,7 +7,10 @@ main:
    # url: /talks/    
 
   - title: "Teaching & Mentoring"
-    url: /teaching-mentoring/    
+    url: /teaching-mentoring/   
+    
+  - title: "Resources"
+    url: /resources/ 
     
   - title: "CV"
     url: /files/92721_gradcv.pdf
