@@ -14,5 +14,6 @@ Here are some resources I've found helpful, both for applying to graduate progra
 
 # Machine Learning Resources
 Here are some websites that may be helpful for self-teaching.
-* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-* [Intro to Neural Networks (with code)](https://victorzhou.com/blog/intro-to-neural-networks/)
+* R2D3's [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* Victor Zhou's post on [Intro to Neural Networks (with code)](https://victorzhou.com/blog/intro-to-neural-networks/)
+* Chris Olah's post on [Neural Nets, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
