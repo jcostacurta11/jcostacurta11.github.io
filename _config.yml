@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &CostacurtaJulia
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Julia Costacurta"
   avatar           : "Costacurta, Julia_PhD.jpg"
-  bio              : "Electrical Engineering PhD Student"
+  bio              : "Electrical Engineering PhD Candidate"
   location         : "Palo Alto, CA"
   employer         : 
   googlescholar    : https://scholar.google.com/citations?user=dI-yFpQAAAAJ&hl=en
