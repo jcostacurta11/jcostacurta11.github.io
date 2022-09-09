@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ## Teaching
+### Center for Teaching and Learning
+In Fall 2022 I am taking up a role as Engineering Learning Consultant in Stanford's [Center for Teaching and Learning](https://studentlearning.stanford.edu/academic-skills/peer-learning-consultant-program/meet-team). Stay tuned!
+### Stanford Climbing Wall
+I teach belay classes, clinics, and quarter-long introductory courses at the [Stanford Climbing Wall](https://rec.stanford.edu/adventure/climbing).
+### Additional Calculus for Engineers
+In Fall 2021, I held drop-in help hours for students enrolled in CME 102, Ordinary Differential Equations for Engineers, via Stanford's [Additional Calculus for Engineers](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/undergraduate-programs/additional-calculus) program.
 ### BEAM Summer Away
 In July 2020, I served as a counselor and teaching assistant for [BEAM Summer Away](https://www.beammath.org/summer-after-7th-grade) (online due to COVID), a program aimed at helping students from underserved and underrepresented backgrounds gain the resources necessary to succeed mathematically. I assisted with courses on number theory and projective planes, and led activities and check-ins with the students.
 ### Teaching Assistant Positions
