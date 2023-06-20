@@ -11,6 +11,7 @@ Here are some resources I've found helpful, both for applying to graduate progra
 * [Velocity in research](http://agriblog.stanford.edu/slides/07-velocity.pdf)
 * [Previous NSF GRFP winning examples](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/htmlview#gid=0)
 * [Negotiating graduate financial aid](https://docs.google.com/document/d/13F9x5YMCFTZycR21jnhBTD_nPGdyu1aKKVw0aDNy8HY/edit?invite=COvEzY0I)
+* [Big list of graduate funding sources](https://research.jhu.edu/rdt/funding-opportunities/graduate/)
 
 # Machine Learning Resources
 Here are some websites that may be helpful for self-teaching.
