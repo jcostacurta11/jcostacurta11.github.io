@@ -26,5 +26,5 @@ I am very proud to have received awards for my undergrad teaching from both the 
 ## Mentoring
 I serve as a mentor for undergraduate students and prospective graduate students via [Project SHORT](https://www.project-short.com/), JHU [Womxn Mentoring Whiting](https://jhuwmw.carrd.co/), Stanford [SWIMM](http://swimm.stanford.edu/), and the Stanford [WCC STEM Program](https://stanfordwcc.weebly.com/wcc-stem-program.html).
 
-It takes a village to raise a graduate student. I wouldn't be where I am today without the guidance of my own grad student mentors: [Michael Rosenberg](https://www.linkedin.com/in/mcr-biomech), [Franky Romero](https://web.stanford.edu/~faromero/), and [Blue Sheffer](http://www.bluesheffer.com/).
+Many thanks to my own mentors, who have shaped my experience in academia for the better: [Michael Rosenberg](https://neuromechanicslab.emory.edu/people/rosenberg-michael.html), [Franky Romero](https://web.stanford.edu/~faromero/), [Blue Sheffer](http://www.bluesheffer.com/), and [Stephanie Claussen](https://engineering.sfsu.edu/faculty-profile-stephanie-claussen).
 
