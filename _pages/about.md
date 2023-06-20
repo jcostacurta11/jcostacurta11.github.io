@@ -14,3 +14,5 @@ I graduated from Johns Hopkins University in 2020 with a B.S. in Biomedical Engi
 
 Outside of STEM I enjoy reading, sewing, and rock climbing. If any of this sounds interesting to you feel free to [contact me](mailto:jcostac@stanford.edu)! 
 
+Many thanks to [EJ Chong](https://ejchong.com/) for the icon!
+
