@@ -6,10 +6,14 @@ author_profile: true
 ---
 
 ## Teaching
+* ### Stanford Summer Engineering Academy
+In 2023, I prepared and taught a four-week inquiry-oriented linear algebra course for a four-week summer bridge program attended by first-generation/low-income and underrepresented incoming freshmen.
+* ### Stanford Carpentries
+I teach and assist with workshops on programming in Python and R via the Stanford Carpentries, and hold a teaching certification from the international Carpentries network.
 * ### Center for Teaching and Learning
-In Fall 2022 I am taking up a role as Engineering Learning Consultant in Stanford's [Center for Teaching and Learning](https://studentlearning.stanford.edu/academic-skills/peer-learning-consultant-program/meet-team). Stay tuned!
+I serve as an Engineering Learning Consultant in Stanford's [Center for Teaching and Learning](https://studentlearning.stanford.edu/academic-skills/peer-learning-consultant-program/meet-team). In this role I've helped develop workshops on data visualization and LaTeX. For the past two summers, I have also taught as a co-instructor for a scientific Python bootcamp offered to visiting students in the Stanford Equity & Inclusion Office's summer programs.
 * ### Stanford Climbing Wall
-I teach belay classes, clinics, and quarter-long introductory courses at the [Stanford Climbing Wall](https://rec.stanford.edu/adventure/climbing).
+I taught belay classes, clinics, and quarter-long introductory courses at the [Stanford Climbing Wall](https://rec.stanford.edu/adventure/climbing).
 * ### Additional Calculus for Engineers
 In Fall 2021, I held drop-in help hours for students enrolled in CME 102, Ordinary Differential Equations for Engineers, via Stanford's [Additional Calculus for Engineers](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/undergraduate-programs/additional-calculus) program.
 * ### BEAM Summer Away
