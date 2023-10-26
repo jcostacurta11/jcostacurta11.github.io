@@ -9,7 +9,7 @@ author_profile: true
 * ### Graduate Teaching Assistantships
 In fall 2023, I am serving as a teaching assistant for [ENGR 108, Introduction to Matrix Methods](https://web.stanford.edu/class/engr108/).
 * ### Stanford Summer Engineering Academy
-In 2023, I prepared and taught a four-week [inquiry-oriented linear algebra](https://iola.math.vt.edu/index.php) course for [Stanford Summer Engineering Academy](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/undergraduate-programs/stanford-summer), a four-week summer bridge program attended by first-generation/low-income and underrepresented incoming freshmen.
+In spring/summer 2023, I prepared and taught a four-week [inquiry-oriented linear algebra](https://iola.math.vt.edu/index.php) course for [Stanford Summer Engineering Academy](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/undergraduate-programs/stanford-summer), a four-week summer bridge program attended by first-generation/low-income and underrepresented incoming freshmen.
 * ### Stanford Carpentries
 I teach and assist with workshops on programming in Python and R via the Stanford Carpentries, and hold a teaching certification from the international [Carpentries network](https://carpentries.org/).
 * ### Center for Teaching and Learning
