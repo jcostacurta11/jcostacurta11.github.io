@@ -21,3 +21,4 @@ Here are some websites that may be helpful for self-teaching.
 
 # Motivation/Fun Stuff
 * Olivia Walch's [Some Myths About Math](http://oliviawalch.com/files/smam.pdf)
+* * Ashley Juavinett's [There's No Such Thing as a Computational person](https://medium.com/the-spike/there-is-no-such-thing-as-a-computational-person-cca658b5c8f9)
