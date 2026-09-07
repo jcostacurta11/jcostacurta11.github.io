@@ -37,8 +37,4 @@ I taught section, graded HW/exams, and held office hours for the following cours
 I am very proud to have received awards for my undergrad teaching from both the BME and mathematics departments.
 
 
-## Mentoring
-I serve as a mentor for undergraduate students and prospective graduate students via [Project SHORT](https://www.project-short.com/), JHU [Womxn Mentoring Whiting](https://jhuwmw.carrd.co/), Stanford [SWIMM](http://swimm.stanford.edu/), and the Stanford [WCC STEM Program](https://stanfordwcc.weebly.com/wcc-stem-program.html).
-
-Many thanks to my own mentors, who have shaped my experience in academia for the better.
 
