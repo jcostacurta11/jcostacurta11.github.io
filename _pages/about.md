@@ -12,7 +12,5 @@ Hi there! My name is Julia and I'm a Visiting Assistant Professor in Statistics 
 
 I graduated from Johns Hopkins University in 2020 with a B.S. in Biomedical Engineering, Mathematics, and Applied Mathematics and & Statistics. I've previously worked in the JHU [Neuromedical Control Systems Lab](https://sarmalab.icm.jhu.edu/), University of Washington [Ability and Innovation Lab](https://steelelab.me.uw.edu/), and [Fields Institute for Research in Mathematical Sciences](http://www.fields.utoronto.ca/activities/19-20/2019-fusrp). 
 
-Outside of STEM I enjoy reading, sewing, and rock climbing. If any of this sounds interesting to you feel free to [contact me](mailto:jcostac@stanford.edu)! 
-
-Many thanks to [EJ Chong](https://ejchong.com/) for the icon!
+Outside of academia I enjoy reading, sewing, board games, and trying new Philly restaurants. 
 
