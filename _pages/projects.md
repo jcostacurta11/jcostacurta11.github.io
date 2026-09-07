@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-* ### Neuromodulated Recurrent Neural Networks ([NeurIPS Paper]([https://www.biorxiv.org/content/10.1101/2024.07.26.605315v1](https://openreview.net/pdf?id=HbIBqn3grD)))
+* ### Neuromodulated Recurrent Neural Networks ([NeurIPS Paper](https://openreview.net/pdf?id=HbIBqn3grD))
   In this work, we augment traditional RNN models of neural computation by adding a neuromodulator-like signal which can strengthen and weaken the network's recurrent weights. In doing so, we seek to begin bridging the gap between highly biologically-inspired biophysical models and broader RNN models of computation. Graduate work with [Scott Linderman](https://statistics.stanford.edu/people/scott-linderman) and [David Zoltowski](https://www.davidzoltowski.com/).
 
   NeurIPS paper: JC Costacurta, S Bhandarkar, D Zoltowski, SW Linderman. Structured flexibility in recurrent neural networks via neuromodulation. 38th Conference on Advances in Neural Information Processing Systems (NeurIPS). Vancouver, 2024.
